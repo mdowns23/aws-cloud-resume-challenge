@@ -9,8 +9,8 @@ terraform {
 
 provider "aws" {
     //profile ="cloud-resume-infra"
-    access_key = "AWS_ACCESS_KEY_ID2"
-    secret_key = "AWS_SECRET_ACCESS_KEY2"
+    access_key = "var.AWS_ACCESS_KEY_ID2"
+    secret_key = "var.AWS_SECRET_ACCESS_KEY2"
     region = "us-west-2"
 }
 

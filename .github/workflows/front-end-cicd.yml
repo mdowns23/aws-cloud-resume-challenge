@@ -2,6 +2,10 @@ name: Upload website to S3
 
 on:
   push:
+    paths:
+      - 'index.html'
+      - 'index.js'
+      - 'style.css'
     branches:
     - main
 

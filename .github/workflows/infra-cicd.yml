@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'infrastructure/**'
+      - 'infra-cicd.yml'
     branches:
       - main
       

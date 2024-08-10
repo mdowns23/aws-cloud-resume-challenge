@@ -9,5 +9,5 @@ Finally I built the infrastructure for the viewer counter using terraform.
 
 For insights on what learned on this project please visit:
 
-https://mdowns.hashnode.dev/resume-website-on-aws-pt-1-reflections
+https://mdowns.hashnode.dev/resume-website-on-aws-pt-1-reflections <br />
 https://mdowns.hashnode.dev/resume-website-on-aws-pt-2-reflections
